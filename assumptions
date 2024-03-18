@@ -1,0 +1,12 @@
+Timezone Consistency: all timestamps provided are in the same timezone or can be effectively compared regardless of timezone differences. 
+No explicit timezone conversion is performed in the provided code.
+
+Data Consistency: the provided data is consistent and accurate. No data validation or error handling for inconsistencies is implemented in the provided code.
+
+Threshold for Suspicious Swipes
+- within 6 hours
+- not swiped within 24 hours 
+these values are hardcoded
+
+Sort Order for Data Processing: data needs to be sorted by timestamp before processing to ensure chronological order. Sorting is performed based on the 'timestamp_local' column.
+
