@@ -1,6 +1,6 @@
 # Anomaly Detection System
 
-This project implements an anomaly detection system for monitoring employee badge swipes across multiple locations. The system analyzes historical swipe data to identify suspicious patterns such as swipes at different locations within a short time frame, long stays, and missing swipes.
+This project implements  anomaly detection system for monitoring employee badge swipes across multiple locations. The system analyzes historical swipe data to identify suspicious patterns such as swipes at different locations within a short time frame, long stays, and missing swipes.
 
 ## Installation
 
